@@ -1,9 +1,3 @@
-Team Members -
-  Desikan Sundararajan : 5615-9991
-  Madhura Basavaraju : 6794-1287
-
-Running the Project
-  mix run my_program.exs numNodes topology algorithm
 
 
 What is working
